@@ -1,0 +1,26 @@
+Action Driver Class :
+
+the Action Driver class acts as a custom utility layer,
+designed to handle common browser interactions  more efficiently.
+It simplifies and enhance the Webdriver functionalities by
+adding additional features like explicit wait and error handling ,
+ensuring roubust and reusable code.
+
+
+Key Features of the ActionDriver class :
+1. Encapsulation of selenium Actions
+2. Enhanced stability with explicit waits
+3. Improved Error Handling
+4. Resusability
+5. Performance Optimization
+
+Benefits:
+Simplifies code
+Enhances readability
+increases test stability
+promotes reusability
+
+
+What is Page Object Model ?
+
+
